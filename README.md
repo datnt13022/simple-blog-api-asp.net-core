@@ -1,2 +1,2 @@
 # simple-blog-api-asp.net-core
-Simple Blog 
+Simple Blog API use asp.net core
